@@ -25,3 +25,19 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+ng new week4tut  //create new app
+ng generate component [page name] // generate components
+ng build // compile project
+ng serve --open
+
+npm init //initilise node project
+npm install -g @angular/cli //install angular
+npm install bootstrap --save
+
+git init
+git add -A
+git commit
+git branch -M main
+git push -u origin main
